@@ -1,7 +1,8 @@
 # LearningCoefficient-RLCT-ofLDA-usingGS
 
 
-This is the numerical experimental `Julia 1.3.0` codes for calculating real log canonical threshold for latent Dirichlet allocation (LDA) using Gibbs sampling.  This experiment had been carried out for [1].
+This is the numerical experimental `Julia 1.3.0` codes for calculating real log canonical threshold for latent Dirichlet allocation (LDA) using Gibbs sampling.
+This experiment had been carried out for [1].
 
 ## Environment
 
