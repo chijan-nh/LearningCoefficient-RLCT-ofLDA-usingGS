@@ -52,7 +52,6 @@ Numerical calculation for the real log canonical threshold (RLCT a.k.a. learning
 * `Julia_calculate_RLCT_of_LDA_by_GS.jl`: the Julia code file exported by the above ipynb file.
 * `Project.toml`: the package file for instance installation packages.
 * `Manifest.toml`: the package file for instance installation packages.
-* `image/PhaseTrans-withdesc.png`: the following phase diagram of NMF.
 * `log/`: the default result storage directory.
 
 ## Reference
